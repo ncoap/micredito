@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">ODISEA</string>
+    <string name="welcome_text">La musica que te gusta, donde sea</string>
+    <string name="welcome_text_footer">Se parte del proyecto en mejorando.la/sfotipy</string>
+    <string name="register">Registrate</string>
+    <string name="login">Ingresa</string>
+    <string name="title_activity_my_music">MyMusic</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_blank_fragment2">Hello blank fragment2</string>
+    <string name="title_activity_solicitud">Solicitud</string>
+    <string name="action_sign_in">Iniciar Sesión</string>
+    <string name="provincia_prompt">Elija una provincia</string>
+    <string name="localidad_prompt">Elija una localidad</string>
+    <string name="send_solicitud">Simular</string>
+    <string name="activity_name_simulacion">Simulación de Crédito</string>
+    <string name="title_activity_test">TestActivity</string>
+</resources>
